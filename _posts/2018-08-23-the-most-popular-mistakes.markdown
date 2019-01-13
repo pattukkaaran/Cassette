@@ -21,4 +21,4 @@ Time flew, I came back from Punjab. My love for Music and Movies grew up huge! T
 
 So, what to expect in this blog?
 
-Nothing but Music. Lyrics. Abundance of Playlists. Language never matters in Music. Trust me! I'm konjam bad in stringing things in words, Forgive me for that. See you soon!
+Nothing but Music. Lyrics. Abundance of Playlists. Language never matters to me in Music. Trust me! I'm konjam bad in stringing things in words, Forgive me for that. See you soon!
