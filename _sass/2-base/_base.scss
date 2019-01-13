@@ -40,6 +40,17 @@ body {
   background-color: $primary-color;
 }
 
+.header-bg-view {
+  background: $black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  height: 40%;
+  width: 100%;
+  transform: skewY(3.5deg);
+}
 
 // Headings
 $heading-font-weight: 700;
