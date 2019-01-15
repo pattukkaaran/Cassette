@@ -17,7 +17,7 @@ Like I mentioned in my previous post, This is one song that changed everything f
 My love for this song started when I was sitting in the movie hall, smiling how Madhan and Vaishu got 'L' in FLAMES. I hadn't listened to this song before & when it started playing, it calmed my soul. The soul of a very average 8th standard boy who has never been in love. Then, This song made me want to gush about my love for that special someone who never even existed to me at the time :P (Nobody exists now too) ... & it stays afresh to me even now. 'Kadhal Valarthen..' runs for 7 minutes and 30 seconds, but not even once I have been bored of listening to this song. It's been 14 years since I listened to this beauty for the first time and it stays afresh for me. I fall in love everytime I listen to this one. I just close my eyes and sing my heart out. I don't remember anytime skipping 'Kadhal Valarthen..' whenever it popped on my shuffle. If I ever hear a glimpse of this song on TV or on the radio, I stop wherever I am & listen to it completely & then move around.
 
 I carry some (actually many) bittersweet memories with this song, but that doesn't make me stop listening to this number at any point of life. My love for this magic is immortal. 
-![image-title-here](/Manmadhan-Blog.jpg){:class="img-responsive"}
+![Manmadhan Cover](https://pattukkaaran.in/img/Manmadhan-Blog.jpg){:class="img-responsive"}
 
 Let's move on to the souls that sculpted this masterpiece. Yuvan Shankar Raja - Na Muthukumar - Kay Kay. I don't know who 'Okay-d' this Tune, Be it Simbu or A Jay Murugan.. Whoever it is, a BIG THANKS.
 
