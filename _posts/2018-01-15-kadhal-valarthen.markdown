@@ -22,7 +22,7 @@ I carry some (actually many) bittersweet memories with this song, but that doesn
 
 Let's move on to the souls that sculpted this masterpiece. Yuvan Shankar Raja - Na Muthukumar - Kay Kay. I don't know who 'Okay-d' this Tune, Be it Simbu or A Jay Murugan.. Whoever it is, a BIG THANKS.
 
-I had no clue, who Yuvan / Na Muthukumar were until this song crossed path in my life. I would have listened to the song more than some thousand times, but I still get goosebumps even now when listen to this line
+I had no clue, who Yuvan / Na Muthukumar were until this song crossed path in my life. I would have listened to the song more than some thousand times, but I still get goosebumps when listen to this line.
 
 "Unadhu Per Ezudhi Pakkathile.. Enadhu Perai Naanum Ezuthi Vachen, Adhu Mazhayil Azhiyama Kudai Pudichen.. Mazhai Vittum Naan Nananjen.."
 
