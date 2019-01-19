@@ -14,7 +14,7 @@ Well, I wonder where to start. I 'observed' this piece of art for the 1st time i
 
 There's an interesting (to me atleast) story how I found this song after 6 years. When I started working, I used to sit and coordinate with film designers for film publicity posters. I used to visit this famous designing office in Chennai and there was this man who was 5-6 years older than me. At work time he is super serious, I mean you can literally count the number of words he speaks in a day during work! But when everyone leaves office, he is a very different person. 'Muzhumadhi Avaladhu Mugamaagum..' slowly entered his song queue & he'd have it on loop for days! 'Ennamaa Eludhirukkan Paarunga Manushan..' is the prelude appreciation he'll start with & he'll go on exclaiming at every line, talking about his connection with that song.
 
-![Jodha Akbar](https://pattukkaaran.in/img/ja-blog-post){:class="img-responsive"}
+![Jodha Akbar](https://pattukkaaran.in/img/ja-blog-post.png){:class="img-responsive"}
 
 I believe in cosmic connections & I think I'm destined to witness Na Muthukumar's presence (through his lines) at every point of my life :) I had no idea who penned this song when the designer anna praised the lyricist. But when I found out that it was Muthukumar, I wasn't surprised :) instead I'd always wonder how come he's the one who has penned of all my favourite songs :D
 
