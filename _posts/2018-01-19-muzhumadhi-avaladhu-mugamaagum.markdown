@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Muzhumadhi Avaladhu Mugamaagum!
-date:   2018-01-20 12:00:55 +0530
+date:   2018-01-19 12:00:55 +0530
 image:  Jodhaa-Akbar.jpg
 tags:   [Music]
 slug: muzhumadhi-avaladhu-mugamaagum
