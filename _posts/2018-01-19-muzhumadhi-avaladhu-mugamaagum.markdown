@@ -13,8 +13,9 @@ The rituals are the same. Plug in your headphones and listen to the song as you 
 Well, I wonder where to start. I 'observed' this piece of art for the 1st time in 2014. Yea, that is 6 years after the movie released. Hope you're aware that the film released in 2008 & the song 'Azeem-O-Shaan Shahenshah..' was a huge hit. The song is grand and special thanks to Vijay Awards for making the song a mega-hit. Even though I follow Hindi songs and ARR's work in all languages, I didn't listen to this song. My bad, I take responsibility and I blame myself for missing such an earworm for 6 years!
 
 There's an interesting (to me atleast) story how I found this song after 6 years. When I started working, I used to sit and coordinate with film designers for film publicity posters. I used to visit this famous designing office in Chennai and there was this man who was 5-6 years older than me. At work time he is super serious, I mean you can literally count the number of words he speaks in a day during work! But when everyone leaves office, he is a very different person. 'Muzhumadhi Avaladhu Mugamaagum..' slowly entered his song queue & he'd have it on loop for days! 'Ennamaa Eludhirukkan Paarunga Manushan..' is the prelude appreciation he'll start with & he'll go on exclaiming at every line, talking about his connection with that song.
-
+<p style="text-align:center;">
 ![Jodha Akbar](https://pattukkaaran.in/img/ja-blog-post.png){:class="img-responsive"}
+  </p>
 
 I believe in cosmic connections & I think I'm destined to witness Na Muthukumar's presence (through his lines) at every point of my life :) I had no idea who penned this song when the designer anna praised the lyricist. But when I found out that it was Muthukumar, I wasn't surprised :) instead I'd always wonder how come he's the one who has penned of all my favourite songs :D
 
