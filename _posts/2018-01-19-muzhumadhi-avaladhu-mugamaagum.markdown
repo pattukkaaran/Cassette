@@ -28,9 +28,10 @@ I feel the bitterness everytime I listen
 Kan Thirandhen Avalum Illai.. Kasandhadhu Nimidam.."
 
 தமிழில் (In Tamil)
+<pre>
 "உறக்கம் வந்தே தலைகோத.. மரத்தடியில் இளைப்பாறி
 கண் திறந்தேன் அவளும் இல்லை.. கசந்தது நிமிடம்.."
-
+</pre>
 Thank you, Oh Universe of Music! For ARR. For Na Muthukumar & for the eternal love :)
 
 I hope you all adored this piece of art once again!
@@ -38,6 +39,7 @@ I hope you all adored this piece of art once again!
 Yours truly, Pattukkaaran :)
 
 & I hope you all fall in love with a person who makes you feel that the following lines from this song were written exclusively for you! :)
-
+<pre>
 "கேட்டதுமே மறக்காத மெல்லிசையும் அவள்தானே..
 அதன் பல்லவி சரணம் புரிந்து மௌனத்தில் நின்றேன்..!"
+</pre>
