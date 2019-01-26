@@ -35,6 +35,12 @@ body {
 	color: #666;
 }
 
+pre {
+    line-height: 1.2;
+    border-left: 5px solid #C9D3E7;
+    background: #32353e;
+}
+
 *::selection {
   color: $white;
   background-color: $primary-color;
