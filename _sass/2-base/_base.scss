@@ -34,7 +34,9 @@ body {
 ::placeholder {
 	color: #666;
 }
-
+a {
+	word-wrap:break-word;
+}
 pre {
     line-height: 2;
     border-left: 5px solid #C9D3E7;
