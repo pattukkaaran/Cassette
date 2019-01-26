@@ -8,11 +8,6 @@ slug: oh-you-are-here
 author-name: 'Anonymous'
 ---
 
-<p><img src="https://pattukkaaran.in/img/kj-img.png" alt="KJY Image" class="img-responsive reveal-in" style="
-    max-width: 300px;
-    margin: 0 auto;
-    text-align: center;
-"></p>
 Okay, so you landed here.. Welcome to my blog! 😊, "Paatukkaran" is a piece of Me.
 
 Let me be honest, I don't want to fake bluff here 'I had music all my childhood..', I don't even have a memory of me singing or dancing to a tune till I was in my 2nd standard. Amma's lullaby and Doordarshan's "Oliyum Oliyum" is the source of Music for me like any other 90s Kid. I don't remember but Amma used to Quote that I used to fall asleep listening to "Kanne Kalaimaane.." with  Chithappa carrying me on his shoulders. The very first song I probably remember humming was "Take it easy, Oorvasi". I love the song- for the lyrics, for Prabhu Deva (I feel he is the most under-rated actor in 90s) and for the Bus that appears in the song.
