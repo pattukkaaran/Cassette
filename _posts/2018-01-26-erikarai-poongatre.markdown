@@ -36,5 +36,7 @@ I wanted to hit the road as soon as I saw this video. But, work. I couldn't. So,
 
 I wonder what would have been the thought process of Ilaiyaraaja sir when he was composing this song. Listen once, the next time you'll hum the tune and then you'll sing along with the song. That's how a song should be ideally built right? I don't want to lecture you on this, Basically I'm running out of words to describe the song. Close your eyes and Listen to the Song right away. Coz, a few things are better when experienced. 
 
+<pre>
 காலத்தின் கோலத்தால் நெஞ்சம் வாடுது அந்த  
 பொன்னான நினைவுகள் கண்ணீரில் கரையுது 🙂
+</pre>
