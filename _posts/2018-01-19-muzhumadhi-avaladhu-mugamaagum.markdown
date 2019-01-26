@@ -3,7 +3,7 @@ layout: post
 title:  Muzhumadhi Avaladhu Mugamaagum!
 date:   2018-01-19 12:00:55 +0530
 image:  Jodhaa-Akbar.jpg
-tags:   [Music]
+tags:   [Music, A.R. Rahman]
 slug: muzhumadhi-avaladhu-mugamaagum
 author-name: 'Anonymous'
 ---
