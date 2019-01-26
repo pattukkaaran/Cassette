@@ -3,7 +3,7 @@ layout: post
 title:  Kadhal Valarthen - I really did!
 date:   2018-01-15 12:00:55 +0530
 image:  kadhal-valarthen.png
-tags:   [Music]
+tags:   [Music, Yuvan Shankar Raja]
 slug: kadhal-valarthen
 author-name: 'Anonymous'
 ---
