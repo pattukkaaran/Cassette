@@ -14,7 +14,7 @@ This song is one example of how visuals play a vital role in making the song rea
 I believe soo many people are unaware of this song, Here you go!
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=nW8IUr9NQcc" frameborder="0" allowfullscreen></iframe>
-
+<br>
 "Run", released in 2002 was a chartbuster album & the music by Vidyasagar had reached every nook and corner of Tamil Nadu. Theradi Veethiyil, Kadhal Pissase, Ichutha Ichutha, Poi Solla Koodathu, Minsaram En Meedhu.. The album is pure GOLD. Director Lingusamy is definitely one of the best album producers of Tamil Cinema and Run is without a doubt, a feather on his cap. I owned a Mixtape of Run, and also a TDK D90 cassette (that had this movie's songs), & I would have listened the entire album on that cassette atleast a zillion times now.
 
 <p style="text-align: center;"><img src="https://pattukkaaran.in/img/run-album-art.png" alt="Run Album Image" class="img-responsive reveal-in"></p>
@@ -29,7 +29,7 @@ This is one of my favorites among the very few songs by this Lyricist. Not a fan
 "சத்தம் இல்லா தீபாவளியை
 நெஞ்சே, கொண்டாடு.."
 </pre>
-
+<br>
 The biggest disappointment for me was when I came to know that this song wasn't placed in the movie. Back in those days, people coming from overseas used to bring DVDs of films which are 100-150 days old. One of my family friends got me Run and that was the 1st time I saw the movie. 1st time it was jet-paced. I didn't notice that 'Panikkaatre..' was missing. Later on, when I knew about it, I forwarded and rewinded the DVD again & again, in search of the song. NO LUCK! I also came to know that the song was not screened at theatres too. I believe, if they had a visual for this song, it would have reached more people. 
 
 I hope this piece of blog helped you in finding & cherishing an earworm. See you all soon with another one from my "favourites" collection! 🙂
