@@ -26,8 +26,8 @@ As kids, we weren't fond of melodies. To an extent, we all enjoyed peppy tunes. 
 This is one of my favorites among the very few songs by this Lyricist. Not a fan of him but if I'm asked my favourite lines from this song, I'll quote every line that's there :D I love everything about this track so much!
 
 <pre>
-"சத்தம் இல்லா தீபாவளியை
-நெஞ்சே, கொண்டாடு.."
+"சத்தம் இல்லா தீபாவளியே 
+நெஞ்சை கொண்டாடு!"
 </pre>
 <br>
 The biggest disappointment for me was when I came to know that this song wasn't placed in the movie. Back in those days, people coming from overseas used to bring DVDs of films which are 100-150 days old. One of my family friends got me Run and that was the 1st time I saw the movie. 1st time it was jet-paced. I didn't notice that 'Panikkaatre..' was missing. Later on, when I knew about it, I forwarded and rewinded the DVD again & again, in search of the song. NO LUCK! I also came to know that the song was not screened at theatres too. I believe, if they had a visual for this song, it would have reached more people. 
