@@ -2,7 +2,7 @@
 layout: post
 title:  Panikkaatre Paravasama?
 date:   2019-02-02 12:00:55 +0530
-image:  panikkaatre-blog-post.png
+image:  panikkaatre-paravasama-blog-post.png
 tags:   [Music, Vidyasagar]
 slug: panikkaatre-paravasama
 author-name: 'Anonymous'
