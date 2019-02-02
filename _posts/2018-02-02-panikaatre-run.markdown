@@ -13,7 +13,7 @@ Plug in your headphones, Listen to this song & read this blog for best experienc
 This song is one example of how visuals play a vital role in making the song reach a huge audience. Not everyone is aware of this number, since this song isn't placed anywhere in the movie.
 I believe soo many people are unaware of this song, Here you go!
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=nW8IUr9NQcc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nW8IUr9NQcc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 "Run", released in 2002 was a chartbuster album & the music by Vidyasagar had reached every nook and corner of Tamil Nadu. Theradi Veethiyil, Kadhal Pissase, Ichutha Ichutha, Poi Solla Koodathu, Minsaram En Meedhu.. The album is pure GOLD. Director Lingusamy is definitely one of the best album producers of Tamil Cinema and Run is without a doubt, a feather on his cap. I owned a Mixtape of Run, and also a TDK D90 cassette (that had this movie's songs), & I would have listened the entire album on that cassette atleast a zillion times now.
 
