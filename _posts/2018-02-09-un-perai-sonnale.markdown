@@ -24,7 +24,7 @@ I have an extra special spot for 'Un Perai Sonnale..'. although the entire album
 தீயை தொடும் பிள்ளை போலே
 உன்னையே மீண்டும் நினைக்கிறேன்! 
 </pre>
-
+<br>
 <p style="text-align: center;"><img src="https://pattukkaaran.in/img/un-perai-blog-between.jpg" alt="Un Perai" class="img-responsive reveal-in"></p>
 
 Can you find something more beautiful than the above-quoted lines? Na Muthukumar has constructed every single line of this song with such perfection that you can quote each of its line as a stand-alone poem. 
@@ -33,7 +33,7 @@ Can you find something more beautiful than the above-quoted lines? Na Muthukumar
 உன் பேரை சொன்னாலே உள்நாக்கில் தித்திக்குமே
 போகாதே! போகாதே!!
 </pre>
-
+<br>
 I mean, look at this! "Uttering your name gives a sweet sensation in my uvula". I am sure only a 'பெருங்காதலன்' can come up with such poetry. 
 
 Whenever I listen to this track, I yearn for more. Unabridged sweetness. Aaaaand those God-damn strings! DAMN! I really wish Karthik Raja had got correct projects on his hands so that he would have composed more such beauties for us. Man, He deserves better! We deserve better Music too! In Rhythm amma modulation..
