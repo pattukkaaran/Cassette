@@ -10,7 +10,7 @@ author-name: 'Anonymous'
 
 Just grab your headphones, play the song & read!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fgo85TyDwTY?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fgo85TyDwTY?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Thanks to Sun TV & K TV for broadcasting this movie "n" number of times, which made me love this movie and this song of course! I have soo many fond memories associated with these two.. I even remember myself crying during the scene where the hero gets scolded by his dad. #Udhavaakara 
@@ -40,7 +40,7 @@ No proper meta on the lyricist of this song.. It isn't available on any streamin
 
 Okay, now one confession. I recently (2-3 months back) came to know that this song is lifted from "Sochenge Tumhe Pyaar Kare Ke Nahi - Deewana". I wasn't surprised. But, I am disappointed. Konjam! Illa Rombave :(
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=17LL_iqlHE8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/17LL_iqlHE8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 I believe Deva did his part of justice to the Tamil version.. But wait! Why care whether it's a copy / lift / inspiration rather than enjoying the music and listening & singing whatever you like? 😁
