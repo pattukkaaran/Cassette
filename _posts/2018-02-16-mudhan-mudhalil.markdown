@@ -30,7 +30,6 @@ This will forever be one of the best songs by Thenisai Thendral 'Deva', featurin
 நான் கொண்ட காதலின் ஆழத்தை பாட
 </pre>
 <br>
-<p style="text-align: center;"><img src="https://pattukkaaran.in/img/mudhan-mudhalil-blog.png" alt=Mudhan Mudhalil" class="img-responsive reveal-in"></p>
 
 The way violins are played throughout makes us go with the stream of the song & the absolutely beautiful interludes are its charm. When we utter the name 'Deva', people instantly go to his Gaana numbers, But for me, his Melodies stand out. Every single melody by Deva is G-O-L-D. The way he keeps his melodies simple yet beautifully arranged made him give a tough competition for Ilaiyaraaja & A R Rahman in 90s. Some agree, some don't.. but the fact is that he was indeed Ilaiyaraaja & Rahman's competitor.
 
