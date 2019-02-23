@@ -2,7 +2,7 @@
 layout: post
 title:  Idhu Enna Maayam!?!
 date:   2019-02-23 12:00:55 +0530
-image:  mudhan-mudhalil-header.png
+image:  idhu-enna-maayam.png
 tags:   [Music, Deva]
 slug: idhu-enna-maayam
 author-name: 'Anonymous'
@@ -39,7 +39,6 @@ In 'Idhu Enna Maayam..' I love this line in particular..
 <br>
 & it gives me chills when Alka Yagnik sings
 
-<p style="text-align: center;"><img src="https://pattukkaaran.in/img/mudhan-mudhalil-blog.png" alt="Aahaa" class="img-responsive reveal-in"></p>
 <pre>
 நான் நேற்று வரையில்
 பூட்டிக்கிடந்த ஜன்னலாய்த் தோன்றினேன்
