@@ -3,7 +3,7 @@ layout: post
 title:  Idhu Enna Maayam!?!
 date:   2019-02-23 12:00:55 +0530
 image:  idhu-enna-maayam.png
-tags:   [Music, Deva]
+tags:   [Music, GV Prakash]
 slug: idhu-enna-maayam
 author-name: 'Anonymous'
 ---
