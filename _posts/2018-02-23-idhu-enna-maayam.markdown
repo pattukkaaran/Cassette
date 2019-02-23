@@ -18,7 +18,7 @@ G V Prakash had a very promising debut, 'Veyil' which consisted of my most favor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eDLUp6rALgc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-This trailer of 'Oram Po' released out of the blue and the small gimpse of music triggered my excitement to the max. No, we didn't have social media, hype tweets, coming soon posters, influencers' crap then.. but, life was TRULY good those days. The 1st time I witnessed this trailer was during Vijay TV's Trailer time. I was expecting a whacky album from GV that would be in broad contrast from his previous movie, Veyil. 
+This trailer of 'Oram Po' released out of the blue and the small glimpse of music triggered my excitement to the max. No, we didn't have social media, hype tweets, coming soon posters, influencers' crap then.. but, life was TRULY good those days. The 1st time I witnessed this trailer was during Vijay TV's Trailer time. I was expecting a whacky album from GV that would be in broad contrast from his previous movie, Veyil. 
 
 BUT, "Idhu Enna Maayam.." in Oram Po was quite a surprise. I didn't see that coming! It's been 12 years since the song released but to me, THIS IS THE BEST EVER SONG by GVP. 
 
