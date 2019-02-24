@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Hello World
 date: 2018-01-15 12:00:55 +0530
-image: ":filename:/rhythm-screen-snap.png"
+image: "/Jodhaa-Akbar.jpg"
 slug: hello-world
 
 ---
