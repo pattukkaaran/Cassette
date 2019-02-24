@@ -1,6 +1,8 @@
 ---
 layout: posts
-tags: "[Music, Yuvan Shankar Raja]"
+tags:
+- Music
+- U1
 author-name: "'Anonymous'"
 title: Hello World
 date: 2018-01-15 12:00:55 +0530
