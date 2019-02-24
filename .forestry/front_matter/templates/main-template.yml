@@ -1,0 +1,49 @@
+---
+label: Main Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  description: Enter layout type as post for blog posts
+  config:
+    required: true
+  default: posts
+  hidden: false
+- type: text
+  label: title
+  name: title
+  description: Blog title
+  config:
+    required: true
+- type: text
+  label: date
+  name: date
+  description: Blog Publish date in YYYY-MM-DD HH:MM:SS +0530 format
+  config:
+    required: true
+- type: file
+  name: image
+  label: image
+  description: Upload the blog header image
+- type: text
+  name: tags
+  label: tags
+  description: Add the tags in [tag, tag] format
+  config:
+    required: true
+  default: "[Music, ]"
+- type: text
+  label: slug
+  name: slug
+  description: Add the slug separated by hyphen (-)
+  config:
+    required: true
+- type: text
+  name: author-name
+  label: author-name
+  description: 'Author name '
+  config:
+    required: true
+  default: "'Anonymous'"
