@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Hello World
 date: 2018-01-15 12:00:55 +0530
-image: "/img/run-album-art.png"
+image: ":filename:/rhythm-screen-snap.png"
 slug: hello-world
 
 ---
