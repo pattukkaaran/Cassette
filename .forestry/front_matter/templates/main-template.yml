@@ -17,12 +17,16 @@ fields:
   description: Blog title
   config:
     required: true
-- type: text
-  label: date
-  name: date
-  description: Blog Publish date in YYYY-MM-DD HH:MM:SS +0530 format
+- type: datetime
   config:
     required: true
+    date_format: YYYY/MM/DD
+    time_format: h:mm:ss +0530
+    display_utc: false
+  name: date
+  description: Select the date and time of the blog post
+  default: 2019-02-20 18:35:05 +0000
+  label: date
 - type: file
   name: image
   label: image
