@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 tags:
 - Music
 - U1
