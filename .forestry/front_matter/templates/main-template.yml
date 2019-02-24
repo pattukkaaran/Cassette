@@ -25,7 +25,7 @@ fields:
     display_utc: false
   name: date
   description: Select the date and time of the blog post
-  default: 2019-02-20 18:35:05 +0000
+  default: ''
   label: date
 - type: file
   name: image
