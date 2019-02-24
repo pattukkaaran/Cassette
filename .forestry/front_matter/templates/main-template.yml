@@ -48,4 +48,4 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/hello-world.md
+- _posts/2018-01-15-hello-world.md
