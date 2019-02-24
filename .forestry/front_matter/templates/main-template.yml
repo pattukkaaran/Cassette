@@ -9,7 +9,7 @@ fields:
   description: Enter layout type as post for blog posts
   config:
     required: true
-  default: posts
+  default: post
   hidden: false
 - type: text
   label: title
