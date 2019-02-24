@@ -14,11 +14,13 @@ Grab your headphones, play the song & read! :)
 
 hu Enna Maayam..' I love this line in particular..
 
+![](/img/panikkaatre-paravasama-blog-post.png)
+
 <pre>
 
 விழிகளை நீ மூடிவைத்தால்
 
-வெளிச்சங்கள் தெரியாதே! 
+வெளிச்சங்கள் தெரியாதே!
 
 வழிகளை நீ மூடிவைத்தால்
 
@@ -46,7 +48,7 @@ hu Enna Maayam..' I love this line in particular..
 
 <br>
 
-Strange. But, It does! 
+Strange. But, It does!
 
 I'll take leave. I hope this post made you revisit this earworm. See you all soon with another one from my “favourites” collection! 🙂 Please write me your memories associated with this song. Would be really glad to read'em! :)
 
