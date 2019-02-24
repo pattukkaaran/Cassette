@@ -50,5 +50,3 @@ fields:
   config:
     required: true
   default: "'Anonymous'"
-pages:
-- _posts/2018-01-15-hello-world.md
