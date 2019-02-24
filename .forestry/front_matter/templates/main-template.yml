@@ -31,6 +31,8 @@ fields:
   name: tags
   label: tags
   description: Add the blog tags
+  default:
+  - Music
 - type: text
   label: slug
   name: slug
