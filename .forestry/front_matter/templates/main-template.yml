@@ -27,13 +27,10 @@ fields:
   name: image
   label: image
   description: Upload the blog header image
-- type: text
+- type: tag_list
   name: tags
   label: tags
-  description: Add the tags in [tag, tag] format
-  config:
-    required: true
-  default: "[Music, ]"
+  description: Add the blog tags
 - type: text
   label: slug
   name: slug
