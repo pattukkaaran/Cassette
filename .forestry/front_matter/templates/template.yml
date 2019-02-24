@@ -14,3 +14,5 @@ fields:
 - type: file
   name: In-between_Image
   label: In-between Image
+pages:
+- _posts/test.md
