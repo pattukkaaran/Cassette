@@ -51,4 +51,4 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/kanaa-kaanum-kaalangal.md
+- _posts/2019-03-01-kanaa-kaanum-kaalangal.md
