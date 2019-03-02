@@ -12,8 +12,7 @@ slug: kanaa-kaanum-kaalangal
 ---
 You are already playing the song, right?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3rHVHEqQcOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Os9DFam-N2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 1st of all, 7G is the film that I've watched the maximum number of times in my life. Probably somewhere around 150?!? I missed watching the movie in theatres so watched it on DVD when I was in my 9th grade. This was probably the first film that literally choked me and made my heart heavy. I woke my Amma up and cried my heart out. Few films DID make me cry.. like Thulladha Manamum Thullum, Poovellam Un Vaasam etc. But, what 7G did to me was something I never thought it would. To me, Kathir & Anitha aren't just names.
 
