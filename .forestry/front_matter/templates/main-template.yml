@@ -50,3 +50,5 @@ fields:
   config:
     required: true
   default: "'Anonymous'"
+pages:
+- _posts/kanaa-kaanum-kaalangal.md
