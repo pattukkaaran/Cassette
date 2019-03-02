@@ -10,3 +10,6 @@ image: "/7g-blog-cover.jpg"
 slug: kanaa-kaanum-kaalangal
 
 ---
+![](/img/7g-blog-inline.jpg)
+
+![](/img/7g-blog-cassette.jpg)
