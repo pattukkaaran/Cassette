@@ -50,5 +50,5 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/2019-03-08-megam-karukayilae.md
+- _posts/megam-karukayilae.md
 - _posts/2019-03-01-kanaa-kaanum-kaalangal.md
