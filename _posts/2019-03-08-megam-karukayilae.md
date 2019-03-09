@@ -13,7 +13,7 @@ author-name: "'Anonymous'"
 Got your headphones On?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UywL6DN_4wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 Konjam extra throwback this one is!
 
 Even though I've crossed TVs and FMs listening to this song, My 1st memory of watching this film was in my 10th class exam holidays. I found a DVD of Vijayakanth Hits that had Vaidehi Kathirunthaal, Amman Koil Kizhakkaale & Poonthotta Kaavalkaaran. Not a fan of Vijayakanth's movies, since as a 90s Kid I've always seen him act in action movies, Saving India from Pakistani Terrorists. But, On my Chithi's suggestion, I watched "Vaidehi Kathirunthaal" & Completely blown away! Not in my wildest dreams, I imagined Vijayakanth in such a movie. I became a fan of his 80s films after watching this film. 
@@ -30,9 +30,7 @@ Also, One interesting Trivia about the film is. The film is written for the song
 
 & My most favorite line from the song is 
 
-<pre>ஆத்த கடந்திடலாம் புள்ள ஆசைய என்ன செய்வேன்?</pre>
-
-<3 
+<pre>ஆத்த கடந்திடலாம் புள்ள ஆசைய என்ன செய்வேன்? ❤️</pre>
 
 I really hope this post made you listen to this beauty. See you all soon with another one from my “favourites” collection! 🙂 Please write to me if you have any memories associated with this song. Would be really glad to read’em! :)
 
