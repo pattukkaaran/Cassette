@@ -7,7 +7,7 @@ tags:
 - Music
 - Ilayaraja
 slug: megam-karukayilae
-author-name: "'Anonymous'"
+author-name: Anonymous
 
 ---
 Got your headphones On?
