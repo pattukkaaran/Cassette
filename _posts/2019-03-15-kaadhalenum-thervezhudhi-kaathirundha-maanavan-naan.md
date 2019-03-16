@@ -31,11 +31,8 @@ I admire, how ARR built the song in such a satisfying manner! Like, look how it 
 To quote my most favorite lyric from the song, It is
 <pre>
 இது கன்னங்களா இல்லை தென்னங்கள்ளா?
-
 இந்தக் கன்னமெல்லாம் உந்தன் சின்னங்களா??
-
 இங்கு நானிருந்தேன் வெறும் மெய்யெழுத்தாக..
-
 நீ வந்து சேர்ந்தாய் உயிரெழுத்தாக!
 </pre>
 <br>
