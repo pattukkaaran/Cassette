@@ -20,7 +20,7 @@ But, days passed.. 'Oh Maria..' faded away and 'Kadhalenum Thervezhudhi..' was a
 
 I love the fact that earlier, composers never cut down the duration of songs for the sake of FMs and Streams! This particular song runs for 6 minutes and 41 seconds & you'll never feel like its lengthy. Every tune & every song from those days is magic. I wonder how composers have the heart to cut down the magic for some reasons 🙄
 
-![](/img/kadhalar-dhinam-album-art.jpg)
+<p style="text-align: center;"><img src="https://pattukkaaran.in/img/kadhalar-dhinam-album-art.jpg" alt="Kadhalar Dhinam Image" class="img-responsive reveal-in"></p>
 
 Penned by Kavignar 'Vaali' & Sung by S. P. Balasubrahmanyam & Swarnalatha \[God, she can never be replaced, can she?\] This beauty is composed by Isai Puyal A R Rahman. I absolutely love the combo of A R Rahman & Vaali more than Rahman's works with other lyricists. I can't imagine anyone else other than Swarnalatha singing this one. Such an emollient voice she has!!!
 
