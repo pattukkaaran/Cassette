@@ -50,6 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
+- _posts/yaaridamum-thondravillai-idhu-pol.md
 - _posts/2019-03-15-kaadhalenum-thervezhudhi-kaathirundha-maanavan-naan.md
 - _posts/megam-karukayilae.md
 - _posts/2019-03-01-kanaa-kaanum-kaalangal.md
