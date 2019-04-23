@@ -12,6 +12,8 @@ slug: kannukkulle-unnai-vaithen-kannammaa
 ---
 So, here goes the 1st post about a track by S A Rajkumar. Got this song on your headphones ON?
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Yjpp1btu3BY" frameborder="0" allowfullscreen></iframe>
+
 This film, 'Pennin Manathai Thottu' was Ezhil's second film after his blockbuster 'Thulladha Manamum Thullum' which had Vijay, Simran in the lead roles; The film and music, both were a huge hit and he collaborated again with S A Rajkumar for this film.
 
 I don't have a huge memory that connects me with this film when it released except for this song. Later on, I guees this one became K TV's favourite because it was broadcasted often and I ended up watching this film whenever they telecasted it. I'm a huge fan of 'ACTOR' Prabhu Deva. I admire him more for his acting than his flawwwlesss dancing skills. I still believe that if he had continued acting, he'd have given a tough competition to Vijay and Ajith now. I have this memory of crossing a cassette shop on my way to school, where I listened to this "Kannukkulle Unnai Vaithen Kannammaa.." almost daily during the early days of its release and also the local autos used to blast this melody in the maximum volume possible.
