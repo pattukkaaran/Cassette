@@ -22,8 +22,7 @@ The soundtrack features 2 versions of this song. One by Unni Menon & One by Unni
 
 Penned by Muthu Vijayan, this one stands out to me for its lyrics (OBVIOUSLY! 🙈) My most favorite line from the song is..
 
-<pre>  
-கண்ணாக கருத்தாக  
+<pre>கண்ணாக கருத்தாக  
 உனை காப்பேன் உயிராக..  
 உனை கண்டேன் கனிந்தேன் கலந்தேனே  
 அட உன்னுள் உறைந்தேனே..  
