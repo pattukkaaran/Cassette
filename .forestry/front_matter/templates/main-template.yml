@@ -50,7 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/kannukkulle-unnai-vaithen-kannammaa.md
+- _posts/2019-04-22-kannukkulle-unnai-vaithen-kannammaa.md
 - _posts/2019-04-05-main-pareshaan-x-4.md
 - _posts/2019-03-22-yaaridamum-thondravillai-idhu-pol.md
 - _posts/2019-03-15-kaadhalenum-thervezhudhi-kaathirundha-maanavan-naan.md
