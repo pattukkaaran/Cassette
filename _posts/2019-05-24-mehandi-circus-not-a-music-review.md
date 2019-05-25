@@ -23,7 +23,7 @@ I planned to wake up to "Veyil Mazhaye.." from Mehandi Circus last night. Was aw
 & that did put a smile on my ugly face. I think y'all should try this too!
 
 Let's jump into the topic now? "Mehandi Circus" is one album that I've looped maximum number of times this year. It tops my playlists on JioSaavn, Spotify, Apple Music list & ofc, in my Lossless Player too. I follow Sean Roldan's work closely, since his Indie days. I'm pretty sure I'm one of the very few people who were super excited when he signed 'Vaayai Moodi Pesavum' (his debut as a film composer). I loved all the songs from "Joker" and "Pa Paandi" and assured myself that I'm IN for a feast when I knew Mehandi Circus is a period film that celebrates Ilaiyaraaja through-out.
-[https://www.jiosaavn.com/album/mehandi-circus/mWuLd6QPRWc_](Click here to listen now)
+[Click here to listen now](https://www.jiosaavn.com/album/mehandi-circus/mWuLd6QPRWc_)
 
 The feast started off with 'Vellattu Kannazhagi..' the 1st single from the film, which was released on Dec 26th, 2018. Sung by Sean Roldan himself, the song's josh is quite exquisite! The 2nd Single from the album is 'Aavoji..' Sung by Santhosh Narayanan, sounded soo Amit Trivedi-ish to me, but didn't really appeal to me on the 1st hearing. Later the tune did grow on me. Let me tell you something, I hate the 'Single' culture. It was exciting in the early days, when Vaanam, Mankatha had them. But now every single movie releasing a Single is actually boring. It doesn't really give (at least to me!) the satisfaction of listening to a full album at a stretch.
 
