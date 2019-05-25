@@ -50,7 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/mehandi-circus-not-a-music-review.md
+- _posts/2019-05-24-mehandi-circus-not-a-music-review.md
 - _posts/2019-04-05-main-pareshaan-x-4.md
 - _posts/2019-03-15-kaadhalenum-thervezhudhi-kaathirundha-maanavan-naan.md
 - _posts/2019-03-01-kanaa-kaanum-kaalangal.md
