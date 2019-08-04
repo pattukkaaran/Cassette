@@ -2,10 +2,11 @@
 layout: post
 tags:
 - Music
+- Yuvan Shankar Raja
 author-name: "'Anonymous'"
 title: Loosu Penne ♪
 date: 2019-08-03 18:30:00 +0000
-image: ''
+image: "/lpenne-2.jpg"
 slug: loosu-penne
 
 ---
