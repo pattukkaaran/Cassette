@@ -35,7 +35,7 @@ The 1st listen hit me hard, the song sounded soo damn fresh. Back then I had no 
 
 Also, the rap-verses by Blaaze! Big-Up to him! Especially, the final one..
 
-"You may not know… know right now…
+<pre>"You may not know… know right now…
 
 The pain I feel… it is so real…
 
@@ -47,7 +47,7 @@ Only you and I…
 
 Only… you… and I…
 
-Yeah!”
+Yeah!”</pre>
 
 I'm a BIG fan of how the rap-verses get extended and of the humming that follows it. Also, I’ve mentioned a zillion times before that I’m a fan of songs that lasts for more than 6 minutes and this one runs for 6 minutes and 52 seconds. DUDE! I’ve NEVER skipped this song even once in all these years.
 
