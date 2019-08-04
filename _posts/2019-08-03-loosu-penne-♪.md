@@ -25,9 +25,13 @@ Vallavan is the second album from #YSRnSTR. The combo struck gold after Manmadha
 
 The 1st listen hit me hard, the song sounded soo damn fresh. Back then I had no ears for English songs, so obviously I wasn’t exposed to Hip-hop. But, this is the 2nd Hip-Hop number I heard in Tamil after ‘Boom Boom’ from Raam. What I love the most about this song is its lyrics. Penned by STR, who has done a mini-tribute to his favourite Vaali, in
 
-<pre>"வாலி போல பாட்டெழுத எனக்கு தெரியலையே
+<pre>
 
-உன்ன பத்தி பாடாம தான் இருக்க முடியலையே”</pre>
+"வாலி போல பாட்டெழுத எனக்கு தெரியலையே
+
+உன்ன பத்தி பாடாம தான் இருக்க முடியலையே”
+
+</pre>
 
 Also, the rap-verses by Blaaze! Big-Up to him! Especially, the final one..
 
