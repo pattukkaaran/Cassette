@@ -16,7 +16,11 @@ Got this song on your headphones? Sincere apologies for the super late post. Tha
 
 I had no idea of writing this today. But, for past 3 days, I’ve been looping to this song. You might be a fan of Rahman, Harris or anybody else, but if you are a 90s kid.. I bet you are a fan of this song no matter what! Thanks to the FMs, Sun Music & its scroll messages :P
 
+![](/img/lpenne-1.jpg)
+
 Vallavan is the second album from #YSRnSTR. The combo struck gold after Manmadhan with this one too. I was in 9th Standard then, The routine follow-ups of paper ads with 'வெகு விரைவில் இசை', 'விரைவில் இசை', 'நாளை முதல் இசை' & 'இன்று முதல் யுவனின் துள்ளலான இசை' happened and I rushed to the local music store and grabbed a copy of Vallavan audio cassette. I flipped the cassette and checked the tracklist. It had whooping 9 tracks! But, this track grabbed my attention, "Loosu Penne.." - The lyrical debut of Silambarasan. I forwarded, rewinded the cassette to find the exact timestamp of 'Loosu Penne..'.
+
+![](/img/ADSAD(1).jpg)
 
 The 1st listen hit me hard, the song sounded soo damn fresh. Back then I had no ears for English songs, so obviously I wasn’t exposed to Hip-hop. But, this is the 2nd Hip-Hop number I heard in Tamil after ‘Boom Boom’ from Raam. What I love the most about this song is its lyrics. Penned by STR, who has done a mini-tribute to his favourite Vaali, in
 
