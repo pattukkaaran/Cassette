@@ -12,7 +12,8 @@ slug: loosu-penne
 ---
 Got this song on your headphones? Sincere apologies for the super late post. Thanks to the souls who messaged asking for the post!
 
-<iframe width="420" height="315" src="[https://www.youtube.com/watch?v=nwzNBiMCtfU](https://www.youtube.com/watch?v=nwzNBiMCtfU "https://www.youtube.com/watch?v=nwzNBiMCtfU")" frameborder="0" allowfullscreen></iframe> <br>
+<iframe width="948" height="533" src="https://www.youtube.com/embed/nwzNBiMCtfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 I had no idea of writing this today. But, for past 3 days, I’ve been looping to this song. You might be a fan of Rahman, Harris or anybody else, but if you are a 90s kid.. I bet you are a fan of this song no matter what! Thanks to the FMs, Sun Music & its scroll messages :P
 
