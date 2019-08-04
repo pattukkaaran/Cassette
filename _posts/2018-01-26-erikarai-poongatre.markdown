@@ -25,7 +25,7 @@ Label: Saregama
 
 I believe soo many people are unaware of this song, Here you go!
 
-<iframe width="948" height="533" src="[https://www.youtube.com/embed/R7JD2rZ0eD4](https://www.youtube.com/embed/R7JD2rZ0eD4 "https://www.youtube.com/embed/R7JD2rZ0eD4")" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="948" height="533" src="https://www.youtube.com/embed/R7JD2rZ0eD4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br> 
 
