@@ -50,6 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
+- _posts/enna-solla-pogiraai.md
 - _posts/2019-08-03-loosu-penne-♪.md
 - _posts/megam-karukayilae.md
 - _posts/2019-05-24-mehandi-circus-not-a-music-review.md
