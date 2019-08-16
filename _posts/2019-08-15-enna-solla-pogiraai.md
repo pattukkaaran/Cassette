@@ -18,6 +18,8 @@ Oh, I'm bored of repeating. Hope you've untangled your earphones and got your ph
 
 Like I mentioned in the very 1st post of this blog `[`[https://pattukkaaran.in/blog/oh-you-are-here](https://pattukkaaran.in/blog/oh-you-are-here "https://pattukkaaran.in/blog/oh-you-are-here")`]`(https://pattukkaaran.in/blog/oh-you-are-here) "Kandukonden Kandukonden" is one of the very 1st cassettes I owned. You know, as a kid I never had the ear for Melodies. 'Smayiyai' remained my favorite all my school days.
 
+![](/img/sandana-thendral-ajith.jpg)
+
 In my teens, Puberty hit me.. quite hard. The fascination of 'Arumbu Meesai, Kurumbu Paarvai, School Crush' & other routine teen-crap happened to me. I started to fall for love songs, having an imaginary girl-friend in my mind and that's the phase where melodies started to make more sense for me. On a revisit, 'Enna Solla Pogiraai' popped up in my speakers. I repeated the song in my cassette player until I lost count. (No kid, repeating the same song in a cassette player isn't an easy task like you guys do these days with a single button). Once the song ends, I used to rewind & forward to punch in the correct timestamp. At a stage, it was a routine and I knew when the song would exactly come.
 
 So, why this song suddenly?!? Coz, I attended ARR's recent concert in Chennai and happened to hear Benny Dayal & Haricharan sing this one. I MISSED SHANKAR MAHADEVAN's rendition because I love the way Shankar Mahadevan, emoted - elevated the song to something else. Especially in these lines,
@@ -36,7 +38,9 @@ Not just that. In life, I'm in a phase where this song makes M-O-R-E Sense! Quot
 "என் தளிர் மலரே இன்னும் தயக்கமென்ன?
 என்னைப் புரியாதா? இது வாழ்வா சாவா?
 என்ன சொல்லப் போகிறாய்!?!" :)
-</pre>
+</pre>  
+  
+![](/img/isaipuyal-arrahman.jpg)
 
 Ah! I can't miss A R Rahman in this post. It's been 27 years since his debut (15th Aug 92' - Roja). I love the folksy fuse this amazing tune has & the spectacular interludes this song has! 2nd interlude is Magical af! This album is the 2nd from Rajiv Menon & ARR, needless to tell about Rajiv's ears for good music. They struck gold with this one too! Penned by Vairamuthu, his contribution did add more sparkle to this song!
 
