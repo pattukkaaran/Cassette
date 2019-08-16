@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  Oh, You are here?
-date:   2018-01-13 12:00:55 +0530
-image:  welcome-post-1.jpg
-tags:   [Music]
+title: Oh, You are here?
+date: 2018-01-13T06:30:55.000+00:00
+image: welcome-post-1.jpg
+tags:
+- Music
 slug: oh-you-are-here
-author-name: 'Anonymous'
----
+author-name: Anonymous
 
+---
 Okay, so you landed here.. Welcome to my blog! 😊, "Paatukkaran" is a piece of Me.
 
 Let me be honest, I don't want to fake bluff here 'I had music all my childhood..', I don't even have a memory of me singing or dancing to a tune till I was in my 2nd standard. Amma's lullaby and Doordarshan's "Oliyum Oliyum" is the source of Music for me like any other 90s Kid. I don't remember but Amma used to Quote that I used to fall asleep listening to "Kanne Kalaimaane.." with  Chithappa carrying me on his shoulders. The very first song I probably remember humming was "Take it easy, Oorvasi". I love the song- for the lyrics, for Prabhu Deva (I feel he is the most under-rated actor in 90s) and for the Bus that appears in the song.
 
-Years passed, my exposure to Music was through Cable TV's! My Amma is my Shazam.. Humm a tune to her, she'll sing the song, Give trivia about the song, movie and the actors performed in the song. I enjoyed all types of Music, whatever pleased my ears. In 1999, Appa got us a Philips Cassette Player & 4 Cassettes with it, I still remember. It was Alaipayuthey, Kandukonden Kandukonden, Mudhalvan, and Karisakaattu Poove. I jumped in joy, I used to listen to them in repeat & stand next to the player and observe the speakers blast according to the rhythm. I started recording Mix-Tapes with the help of my Neighbor Akka's help. I tell you Mix-Tapes are an art form. Poovellam Kettupaar, Kushi, Dheena, Piriyamanavale, Thulladha Manamum Thullum, Mugavari, Vaali, Unnai Kodu Ennai Tharuven, Appu, Pennin Manadhai Thottu, Parthen Rasithen, Rhythm, Thenali are the few albums I remember at this instant to quote here. I loved them totally, never cared who composed, who sang, never know actually! But I loved these albums in 2000.
+Years passed, my exposure to Music was through Cable TV's! My Amma is my Shazam.. Humm a tune to her, she'll sing the song, Give trivia about the song, movie and the actors performed in the song. I enjoyed all types of Music, whatever pleased my ears. In 1999, Appa got us a Philips Cassette Player & 4 Cassettes with it, I still remember. It was Alaipayuthey, `[`Kandukonden Kandukonden`](``[https://](https://www.google.com "https://www.google.com")``pattukkaaran.in/blog/`enna-solla-pogiraai`)`, Mudhalvan, and Karisakaattu Poove. I jumped in joy, I used to listen to them in repeat & stand next to the player and observe the speakers blast according to the rhythm. I started recording Mix-Tapes with the help of my Neighbor Akka's help. I tell you Mix-Tapes are an art form. Poovellam Kettupaar, Kushi, Dheena, Piriyamanavale, Thulladha Manamum Thullum, Mugavari, Vaali, Unnai Kodu Ennai Tharuven, Appu, Pennin Manadhai Thottu, Parthen Rasithen, Rhythm, Thenali are the few albums I remember at this instant to quote here. I loved them totally, never cared who composed, who sang, never know actually! But I loved these albums in 2000.
 
 I saved all my pocket money and spent everything on cassettes. Originals, Mix-Tapes, Curated Ones.
 
