@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: " Enna Solla Pogiraai!?!"
 date: 2019-08-15 18:30:00 +0000
-image: ''
+image: "/enna-solla-header.jpg"
 slug: enna-solla-pogiraai
 
 ---
@@ -14,11 +14,11 @@ Oh, I'm bored of repeating. Hope you've untangled your earphones and got your ph
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Xt3zsCUkzHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-[Not a Music Video but I'm amazed by the sound quality that Saregama Lyric Videos offer. No other labels match this quality.]
+\[Not a Music Video but I'm amazed by the sound quality that Saregama Lyric Videos offer. No other labels match this quality.\]
 
-Like I mentioned in the very 1st post of this blog [Very 1st Post'la Embed this link] (https://pattukkaaran.in/blog/oh-you-are-here) "Kandukonden Kandukonden" is one of the very 1st cassettes I owned. You know, as a kid I never had the ear for Melodies. 'Smayiyai' remained my favorite all my school days.
+Like I mentioned in the very 1st post of this blog `[`[https://pattukkaaran.in/blog/oh-you-are-here](https://pattukkaaran.in/blog/oh-you-are-here "https://pattukkaaran.in/blog/oh-you-are-here")`]`(https://pattukkaaran.in/blog/oh-you-are-here) "Kandukonden Kandukonden" is one of the very 1st cassettes I owned. You know, as a kid I never had the ear for Melodies. 'Smayiyai' remained my favorite all my school days.
 
-In my teens, Puberty hit me.. quite hard. The fascination of 'Arumbu Meesai, Kurumbu Paarvai, School Crush' & other routine teen-crap happened to me. I started to fall for love songs, having an imaginary girl-friend in my mind and that's the phase where melodies started to make more sense for me. On a revisit, 'Enna Solla Pogiraai' popped up in my speakers. I repeated the song in my cassette player until I lost count. (No kid, repeating the same song in a cassette player isn't an easy task like you guys do these days with a single button). Once the song ends, I used to rewind & forward to punch in the correct timestamp. At a stage, it was a routine and I knew when the song would exactly come. 
+In my teens, Puberty hit me.. quite hard. The fascination of 'Arumbu Meesai, Kurumbu Paarvai, School Crush' & other routine teen-crap happened to me. I started to fall for love songs, having an imaginary girl-friend in my mind and that's the phase where melodies started to make more sense for me. On a revisit, 'Enna Solla Pogiraai' popped up in my speakers. I repeated the song in my cassette player until I lost count. (No kid, repeating the same song in a cassette player isn't an easy task like you guys do these days with a single button). Once the song ends, I used to rewind & forward to punch in the correct timestamp. At a stage, it was a routine and I knew when the song would exactly come.
 
 So, why this song suddenly?!? Coz, I attended ARR's recent concert in Chennai and happened to hear Benny Dayal & Haricharan sing this one. I MISSED SHANKAR MAHADEVAN's rendition because I love the way Shankar Mahadevan, emoted - elevated the song to something else. Especially in these lines,
 
@@ -28,7 +28,7 @@ So, why this song suddenly?!? Coz, I attended ARR's recent concert in Chennai an
 இவ்வுலகம் இருண்ட பின்னும் இருளாத பாகம் எது"
 </pre>
 
-I'm amazed by the way he finishes off "விடியாத இரவு எது", "இருளாத பாகம் எது" lines. [Trivia: Shankar Mahadevan bagged a National Award for this song]. 
+I'm amazed by the way he finishes off "விடியாத இரவு எது", "இருளாத பாகம் எது" lines. \[Trivia: Shankar Mahadevan bagged a National Award for this song\].
 
 Not just that. In life, I'm in a phase where this song makes M-O-R-E Sense! Quoting something in order to make it clear.
 
