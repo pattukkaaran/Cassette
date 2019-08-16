@@ -16,7 +16,7 @@ Oh, I'm bored of repeating. Hope you've untangled your earphones and got your ph
 
 \[Not a Music Video but I'm amazed by the sound quality that Saregama Lyric Videos offer. No other labels match this quality.\]
 
-Like I mentioned in the very 1st post of this blog [https://pattukkaaran.in/blog/oh-you-are-here](https://pattukkaaran.in/blog/oh-you-are-here)."Kandukonden Kandukonden" is one of the very 1st cassettes I owned. You know, as a kid I never had the ear for Melodies. 'Smayiyai' remained my favorite all my school days.
+Like I mentioned in the very [1st post of this blog](https://pattukkaaran.in/blog/oh-you-are-here)."Kandukonden Kandukonden" is one of the very 1st cassettes I owned. You know, as a kid I never had the ear for Melodies. 'Smayiyai' remained my favorite all my school days.
 
 ![](/img/sandana-thendral-ajith.jpg)
 
