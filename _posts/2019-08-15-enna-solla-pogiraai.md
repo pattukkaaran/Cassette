@@ -29,7 +29,7 @@ So, why this song suddenly?!? Coz, I attended ARR's recent concert in Chennai an
 பூவாசம் வீசும் உந்தன் கூந்தலடி
 இவ்வுலகம் இருண்ட பின்னும் இருளாத பாகம் எது"
 </pre>
-
+<br>
 I'm amazed by the way he finishes off "விடியாத இரவு எது", "இருளாத பாகம் எது" lines. \[Trivia: Shankar Mahadevan bagged a National Award for this song\].
 
 Not just that. In life, I'm in a phase where this song makes M-O-R-E Sense! Quoting something in order to make it clear.
@@ -39,7 +39,7 @@ Not just that. In life, I'm in a phase where this song makes M-O-R-E Sense! Quot
 என்னைப் புரியாதா? இது வாழ்வா சாவா?
 என்ன சொல்லப் போகிறாய்!?!" :)
 </pre>  
-  
+<br>
 ![](/img/isaipuyal-arrahman.jpg)
 
 Ah! I can't miss A R Rahman in this post. It's been 27 years since his debut (15th Aug 92' - Roja). I love the folksy fuse this amazing tune has & the spectacular interludes this song has! 2nd interlude is Magical af! This album is the 2nd from Rajiv Menon & ARR, needless to tell about Rajiv's ears for good music. They struck gold with this one too! Penned by Vairamuthu, his contribution did add more sparkle to this song!
