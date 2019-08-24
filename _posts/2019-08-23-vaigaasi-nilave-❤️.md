@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Vaigaasi Nilave ❤️
 date: 2019-08-23 18:30:00 +0000
-image: "/Vaigaasi Nilave.jpg"
+image: "/vaigaasi-nilave-header.jpg"
 slug: vaigaasi-nilave
 
 ---
