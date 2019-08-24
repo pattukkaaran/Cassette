@@ -50,6 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
+- _posts/vaigaasi-nilave-❤️.md
 - _posts/2019-08-15-enna-solla-pogiraai.md
 - _posts/2019-08-03-loosu-penne-♪.md
 - _posts/megam-karukayilae.md
