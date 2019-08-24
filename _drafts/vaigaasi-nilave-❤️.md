@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Vaigaasi Nilave ❤️
 date: 2019-08-23 18:30:00 +0000
-image: ''
+image: "/Vaigaasi Nilave.jpg"
 slug: vaigaasi-nilave
 
 ---
@@ -18,6 +18,8 @@ Got your earphones on?
 Back in 2007, when Sun Music / Suryan FM & Radio Mirchi blasted 'June Ponaal July Kaatre..' & 'Unnale Unnale..' I'm glad 'Vaigaasi Nilave..' pleased my ears more than the other songs from this film. I remember the high school & college girls having a crush on Vinay to the maxxx & boys were kraaazy about Sadha's character during the release of this film.
 
 Penned by Vaaliba Kavignar "Vaali" and composed by Harris Jayaraj for Unnale Unnale, this is the 3rd venture for the 'Harris & Jeeva' combo after 12B & Ullam Ketkume. Known for chartbuster songs, this combo has delivered brilliant songs in every association.
+
+![](/img/2019-08-24 10.29.20.jpg)
 
 So, how did I come across this song?!? Before downloads, streaming & after CDs, there was a phase called "MP3". Costed 30 bucks, had 23-25 film songs in 128kbps \[Piracy, But ariyaadha vayasu. BTW later I purchased the original physical copy of this one\]. It was a bluish sunday evening & on a random shuffle I landed on this song. The mellifluous prelude is the main reason I passed 25 seconds in this song & when Haricharan's rendition started, I concentrated more on lyrics, Something told me that this is magical. Next day I rushed to school soon, just to discuss the song with my back-bencher gang. I was in my 11th standard then (I'm a 1st bencher. No, don't judge. I wasn't a padipps. Just height issues).
 
@@ -46,6 +48,8 @@ To quote my favorite lines in this song,
 காற்றும் பூவும் காதல் செய்யும்?"
 </pre>
 Thank you, Harris! Thanks for this song.
+
+![](/img/2019-08-24 10.29.24.jpg)
 
 Cya! I really hope this post made you revisit ‘Vaigaasi Nilave’. See you soon! 🙂 Please write to me if you have any memories associated with this song. Would be really glad to read’em! :)
 
