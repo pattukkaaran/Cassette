@@ -29,9 +29,7 @@ If you ask me to quote my favorite line from this song, I'd go on to quote the e
 பேச்சிழந்த வேளையிலே பெண்ணழகு என் மார்பில்
 மூச்சு விடும் வாசனையை நுகராமல் போவேனோ?"
 </pre>
-<br>
-
-But, wait. Lemme quote my most favourite part:
+<br>But, wait. Lemme quote my most favourite part:
 
 <pre>
 "நீ பாதி தூக்கத்தில் புலம்புவதை
