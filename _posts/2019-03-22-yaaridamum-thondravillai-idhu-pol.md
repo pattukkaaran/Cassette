@@ -14,7 +14,7 @@ Headphones On?
 
 Here goes the 1st post about a track by Harris Jayaraj on Pattukkaaran :)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vdaAbx1pQQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="948" height="533" src="https://www.youtube.com/embed/RTH511zOFkc?t=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 After the massive success of Manmadhan, Simbu announced 'Thotti Jaya' with V Z Durai (Director of Mugavari) for which the music was by Yuvan Shankar Raja. My expectations tripled seeing the announcement, but later Yuvan came out of this project due to his previous commitments (He composed 1 song for the film that got featured in the film but not in the album 😒). Thotti Jaya wasn't a successful film Box-Office wise, but it did have a fans for itself. It's the 1st film I watched at a theatre multiple times. Thrice!
 
