@@ -1,0 +1,41 @@
+---
+layout: post
+tags:
+- Music
+- Yuvan Shankar Raja
+author-name: "'Anonymous'"
+title: Pogathey!
+date: 2019-10-07 18:30:00 +0000
+image: "/Pogathey.jpg"
+slug: pogathey
+
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tv2JjErE1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+How does it feel like? On a Holiday, lying down alone on your bed, listening to this song & tearing up!?! This one makes me feel heavy, cry every-single-time I listen to it.  
+How does it feel like to miss someone who is a few miles away and not in your arms? To crave for their consoling voice when you need it the most? This song gives me that heaviness. It's my catalyst when I overthink.
+
+This is probably the only album that took a long time to hit my eardrum. I was in my 10th standard when this album released & you know how Tamil Nadu Matriculation Schools treat their students 😒 Like, they isolate students from movies & music considering these to be a form of some sin & I went through the same treatment. I missed buying the Cassette & CD when this album released because my school schedule didn't offer me the time to go grab 'em and you also know how the Internet was back in 2007. So it was nearly impossible to surf & download by the time I reached home. Do you know when it is worse? When it is an album composed by your favourite music composer and you STILL didn't get to hear it but you keep seeing ads on paper about them. However, after a week of its release, I caught 'Pogathey' at a tea shop when I was walking to my tuition. I stood there steadily till the song ended & I walked to my tuition with a wide smile on my face. Probably that's the only time this song made me smile!
+
+![](/img/Pogathey 1.jpg)
+
+From the pen of my favorite Na Muthukumar, composed and crooned by Yuvan Shankar Raja, the song hasn't faded a bit even after 12 years. I kept playing this song on loop at my house during 2008-2009 almost everyday, JUST for my cousin. She was 8 months old when she gave attention to this song, we used to gain her attention with this song so that we could feed her & communicate with her. My whole family by-hearted the 1st few lines of the song just because of her.
+
+I love the prelude of the song, with a simple piano strike, after which it begins with 'Pogathey' that cuts me like the chills that you get on a deep-freezing winter night. Not to forget the Interludes, which is simple yet chaotic like your Girlfriend's silence.  I don't know what was in Muthukumar's mind when he penned
+
+<pre> "கல்லறையில் கூட ஜன்னல் ஒன்று வைத்து  
+உந்தன் முகம் பார்ப்பேனடி" </pre>
+
+The line.. & the way Yuvan has sung it 'haunts'. Also, this..
+
+<pre> "அழகான நேரம் அதை நீ தான் கொடுத்தாய்  
+அழியாத சோகம் அதையும் நீ தான் கொடுத்தாய்" </pre>
+
+I mean, look at the lyrics!!! They are simple, hummable yet deep. Muthukumar's loss is impeccable to Tamil Music & Literature. Also, you know his collaborations with Yuvan.. the word 'chartbuster' is written over every single song.
+
+I'm hitting my bed with headphones on with this song!
+
+I really hope this post made you revisit this song. See you all soon with another one from my “favourites” collection! 🙂 Please write to me about your memories associated with this song. I would be really glad to read’em! :)
+
+Yours truly, Pattukkaaran :)

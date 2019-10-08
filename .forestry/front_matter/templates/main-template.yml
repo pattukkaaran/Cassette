@@ -50,6 +50,7 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
+- _posts/pogathey.md
 - _posts/2019-03-22-yaaridamum-thondravillai-idhu-pol.md
 - _posts/2019-09-20-thalaattum-kaatre-vaa.md
 - _posts/2019-08-23-vaigaasi-nilave-❤️.md
