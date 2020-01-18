@@ -13,7 +13,7 @@ slug: mizhiyil-ninnum
 ---
 Post after a long gap! I'm sorry for being a lazy blogger. Thanks for the DMs, I'm alright :) Very good actually! Just Li'l busy with my routine machine life & had soo much happening around me. I'll try to be active.. Pinky promise!
 
-Mizhiyil - Maayanadhi | Headphones On?
+Mizhiyil - Maayanadhi. Headphones On?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jpcHhyhmgg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
