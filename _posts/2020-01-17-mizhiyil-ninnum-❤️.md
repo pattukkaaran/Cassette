@@ -51,9 +51,9 @@ Please listen and experience the beauty this one has for you.
 
 **Vinnile.. Vennilaa.. Thoovalaai Naaam!**"
 
-\[We became happiness, we became rain
+(We became happiness, we became rain
 
-We became the feathery moonbeam in the sky\]
+We became the feathery moonbeam in the sky)
 
 </pre>
 
