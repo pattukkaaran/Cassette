@@ -35,7 +35,7 @@ I'd quote Rumi for this song..
 
 <pre>
 
-“Everything that is made beautiful and fair and lovely is made for the eye of one who sees.”
+“**Everything that is made beautiful and fair and lovely is made for the eye of one who sees.**”
 
 </pre>
 
@@ -45,11 +45,11 @@ Please listen and experience the beauty this one has for you.
 
 <pre>
 
-"Harshamaaaaaaaaaayi..
+"**Harshamaaaaaaaaaayi..**
 
-Varshamaaaaaaaaaayi..
+**Varshamaaaaaaaaaayi..**
 
-Vinnile.. Vennilaa.. Thoovalaai Naaam!"
+**Vinnile.. Vennilaa.. Thoovalaai Naaam!**"
 
 \[We became happiness, we became rain
 
