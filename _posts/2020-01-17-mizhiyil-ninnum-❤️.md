@@ -15,13 +15,13 @@ Post after a long gap! I'm sorry for being a lazy blogger. Thanks for the DMs, I
 
 Mizhiyil - Maayanadhi | Headphones On?
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/jpcHhyhmgg0](https://www.youtube.com/embed/jpcHhyhmgg0 "https://www.youtube.com/embed/jpcHhyhmgg0")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpcHhyhmgg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 1st Malayalam song post of Pattukkaaran 🙂
 
-Back in 2017 Dec, on a sleepless night, I was diverted to the Trailer of Maayanadhi (Thanks to the YouTube algorithm & my constant Malayalam songs search). The trailer had a riveting score by Rex Vijayan, one of my favourite musicians. As soon as I watched the trailer, I decided to watch this film. It came out on Dec 22nd and I booked my tickets thereby inviting myself to a beautiful experience. 
+Back in 2017 Dec, on a sleepless night, I was diverted to the Trailer of Maayanadhi (Thanks to the YouTube algorithm & my constant Malayalam songs search). The trailer had a riveting score by Rex Vijayan, one of my favourite musicians. As soon as I watched the trailer, I decided to watch this film. It came out on Dec 22nd and I booked my tickets thereby inviting myself to a beautiful experience.
 
 ![](/img/Mizhiyil 1.jpg)
 
@@ -29,7 +29,7 @@ The 1st time I heard this song was at the theater. I hadn't heard it when they'd
 
 The visual of this song is equally beautiful. It overflows the art of intimacy that scatters the magic in every pixel of the screen. Visualized with Tovino Thomas & Aishwarya Lekshmi, it is one of the finest that I've ever watched. Almost 2+ years since I watched this film & whenever the song hits my play slide, I loop it atleast thrice. After this movie, Tovino & Aishwarya have been only Maathan & Aapu to me. No matter how many films they do, they will forever remain Maathan & Aapu. Why? Cuz I like them that way!
 
-The Tabla throughout the song feels like a dream. Not to forget the brilliant Sarod in the interlude. 
+The Tabla throughout the song feels like a dream. Not to forget the brilliant Sarod in the interlude.
 
 I'd quote Rumi for this song..
 
@@ -41,7 +41,7 @@ I'd quote Rumi for this song..
 
 <br>
 
-Please listen and experience the beauty this one has for you. 
+Please listen and experience the beauty this one has for you.
 
 <pre>
 
