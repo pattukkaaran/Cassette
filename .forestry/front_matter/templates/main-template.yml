@@ -50,16 +50,15 @@ fields:
     required: true
   default: "'Anonymous'"
 pages:
-- _posts/2019-10-17-thirakkadha-kattukulle-pirakkaadha-pillaigal-pole-aanom.md
-- _posts/2019-10-07-pogathey.md
-- _posts/2019-03-22-yaaridamum-thondravillai-idhu-pol.md
-- _posts/2019-09-20-thalaattum-kaatre-vaa.md
-- _posts/2019-08-23-vaigaasi-nilave-❤️.md
-- _posts/2019-08-15-enna-solla-pogiraai.md
-- _posts/2019-08-03-loosu-penne-♪.md
-- _posts/megam-karukayilae.md
-- _posts/2019-05-24-mehandi-circus-not-a-music-review.md
-- _posts/2019-04-05-main-pareshaan-x-4.md
-- _posts/2019-03-15-kaadhalenum-thervezhudhi-kaathirundha-maanavan-naan.md
 - _posts/2019-03-01-kanaa-kaanum-kaalangal.md
+- _posts/2019-03-15-kaadhalenum-thervezhudhi-kaathirundha-maanavan-naan.md
+- _posts/2019-03-22-yaaridamum-thondravillai-idhu-pol.md
+- _posts/2019-04-05-main-pareshaan-x-4.md
 - _posts/2019-04-22-kannukkulle-unnai-vaithen-kannammaa.md
+- _posts/2019-05-24-mehandi-circus-not-a-music-review.md
+- _posts/2019-08-03-loosu-penne-♪.md
+- _posts/2019-08-15-enna-solla-pogiraai.md
+- _posts/2019-08-23-vaigaasi-nilave-❤️.md
+- _posts/2019-09-20-thalaattum-kaatre-vaa.md
+- _posts/2019-10-07-pogathey.md
+- _posts/2019-10-17-thirakkadha-kattukulle-pirakkaadha-pillaigal-pole-aanom.md
