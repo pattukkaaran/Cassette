@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Hey Nijame!
 date: 2020-03-23 04:35:00 +0000
-image: "/HeyNijame Header.jpg"
+image: "/HeyNijame Header-1.jpg"
 slug: hey-nijame
 
 ---
