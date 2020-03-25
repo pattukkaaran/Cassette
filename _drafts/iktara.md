@@ -1,0 +1,50 @@
+---
+layout: post
+tags:
+- Music
+- Amit Trivedi
+author-name: "'Anonymous'"
+title: 'Iktara '
+date: 2020-03-24 18:30:00 +0000
+image: "/Iktara Header.jpg"
+slug: iktara
+
+---
+I'd say this song is like my hot cup of tea on a rainy afternoon that I'd like to sip gazing through my window when I'm in my pajamas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdB7v1z8PJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+During the 2nd half of 2012, I used to chill 24x7 at my house (in my room to be exact). I used to wake-up, eat, watch movies, listen to music, roam, sleep and this was pretty much on repeat. I also had the habit of watching 1 film a day. So, post Rockstar I was, let's say.. on a movie-watching spree 😬 where I watched all of Ranbir Kapoor's movies and one day I landed up on Wake Up Sid. When the film opened in the credits I noticed Music - Shankar Ehsaan Loy & Amit Trivedi; I paused the movie right away because I wanted to know what Amit Trivedi did in Wake Up Sid (Well.. I was high on Ishaqzaade songs at that time as well) and surfed for the songs composed by Amit Trivedi for this movie & played it. That's when this song hit me.. I remember playing this one on loop for an hour when I listened to it for the 1st time.
+
+![](/img/Iktara Article.jpg)
+
+Iktara opened with the chilling, relaxing guitar prelude with the comforting voice of Kavitha Seth and just took me on a nostalgia trip. It gave me a smile.. a smile that a random kid will give you at a chaotic shopping mall.. a smile that an old friend's phone call would give you.. a smile your loved ones give you when you hug them tight. I was actually smiling throughout the song and Javed Akhtar had me when he poetically dropped this -
+
+> <pre>
+> "Sun rahi hoon sudh budh khoke koi main kahani
+> Poori kahani hai kya kise hai pata
+> Main to kisiki hoke yeh bhi na jaani
+> Ruth hai ye do pal ki ya rehgi sada"
+> </pre>
+
+which means,
+
+> <pre>
+> "Losing my self, I am listening to that story
+> What is whole story, who knows
+> Despite becoming someone’s I didn’t realize
+> Is it a season for this moment or will it stay forever?"
+> </pre>
+
+Wake Up Sid is one of my favorite movies & I still watch it in bits and pieces whenever the poster pops up on my Netflix suggestions. The film gave me (an average, insecure small town boy) the hope to move to a big city and pursue what I want. Special thanks to Ayan Mukerji for that! :)
+
+In the movie, Sid & Aisha don't go on fancy dates. They were raw and real and so was their love. The same goes well with the emotions in this song too! Iktara is an unposted love letter.. an unexpressed love proposal and maybe a song that enquires the depths of human existence & emotions.
+
+So far I've heard 3 versions of the song. [Female](), [Male](https://youtu.be/fTtPg6CSeHk "Iktara - Male") & [MTV](https://youtu.be/6mbzgt6Pgn0 "Iktara - MTV") Version. Do let me know if there are anymore. I'd like to listen them too!
+
+It would be great if you guys could listen to this song for me :) It's okay if you don't know Hindi. Just listen to this & watch Wake Up Sid whenever you get time (Which all of us very much have right now! 😉 21 days of lockdown 😬)
+
+See you soon!
+Yours truly, Pattukkaaran :)
+Bye!
