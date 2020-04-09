@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Oru Maalai Neram :)
 date: 2020-04-08 18:30:00 +0000
-image: "/Oru Maalai Header.jpg"
+image: "/OM-NMA.jpg"
 slug: oru-maalai-neram
 
 ---
