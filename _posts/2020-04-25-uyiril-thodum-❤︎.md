@@ -4,7 +4,7 @@ tags:
 - Music
 - Sushin Shyam
 author-name: "'Anonymous'"
-title: Uyiril Thodum ❤︎
+title: Uyiril Thodum ❤️
 date: 2020-04-25 06:30:00 +0000
 image: "/Kumbalangi Nights 1.jpg"
 slug: uyiril-thodum
