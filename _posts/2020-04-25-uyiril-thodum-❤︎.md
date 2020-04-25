@@ -12,7 +12,7 @@ slug: uyiril-thodum
 ---
 Got your earphones on?
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ZKhOs_Pc_7s](https://www.youtube.com/embed/ZKhOs_Pc_7s "https://www.youtube.com/embed/ZKhOs_Pc_7s")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1268" height="713" src="[https://www.youtube.com/embed/ZKhOs_Pc_7s](https://www.youtube.com/embed/ZKhOs_Pc_7s "https://www.youtube.com/embed/ZKhOs_Pc_7s")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do you remember that phase in your life when you liked someone & you started talking to them? You might have also spent hours thinking on how to start a conversation with them through texts and ended up meeting them often and eventually, fell in love! :) This song reminisced about that phase to me! Exactly that! :)
 
