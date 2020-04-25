@@ -6,7 +6,7 @@ tags:
 author-name: "'Anonymous'"
 title: Uyiril Thodum ❤️
 date: 2020-04-25 06:30:00 +0000
-image: "/Kumb Nights.jpg"
+image: "/UT-KN.jpg"
 slug: uyiril-thodum
 
 ---
