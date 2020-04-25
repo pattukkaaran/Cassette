@@ -38,8 +38,7 @@ Walk alongside me to cross the hot air.)
 
 &
 
-Vazhiyorangal Thorum, Thanalayee Padarchilla Nee,
-Kudayay Nivarnnu Nee, Novaaraathe Thoraathe Peyke..  
+"Vazhiyorangal Thorum, Thanalayee Padarchilla Nee, Kudayay Nivarnnu Nee, Novaaraathe Thoraathe Peyke.."  
 (You have been the shadowy branches all along the path way, You have been the umbrella, during unceasing rains of pain..) </pre> <br>
 
 Hope you enjoy the song as much as I did. If you came to know about this song only via this post, write to me about how much you loved it! See you all soon with another favorite song of mine!
