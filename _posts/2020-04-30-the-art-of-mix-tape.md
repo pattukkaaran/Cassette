@@ -13,7 +13,7 @@ Have you ever created a Mix-tape for someone special? At least a playlist?? No? 
 
 Yes! Mix-tapes are like sending a part of your love letter to that special person, in the form of  music. These are nothing but a bouquet of hand-picked beautiful music that you want to dedicate to the person you love - The songs that you want the other person to listen to/the lyrics that you want to quote for the other person.
 
-* ![](/img/Mix-Tape 3.jpg)
+![](/img/Mix-Tape Dedication.jpg)
 
 A deftly crafted mixtape is an 'extraordinary' work of art and you are NOT supposed to compromise on anything when you begin to make one. You shouldn't be skipping a song just because it's not available on any platform. It's best if you can download that song legally and then add it to your list.
 
