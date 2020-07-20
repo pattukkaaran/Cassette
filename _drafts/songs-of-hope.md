@@ -28,9 +28,10 @@ My go-to song. Not just mine, to almost 70% of my friends, this one's a go-to so
 கப்பலில் காத்திருப்போம்..
 எரிமலை வந்தால் கூட
 ஏறி நின்று போர் தொடுப்போம்
-- நா முத்துக்குமார்
-</pre>
-<br>
+
+* நா முத்துக்குமார்
+  </pre>
+  <br>
 
 **_Vellai Pookkal (Kannathil Muthamittal)_**
 
@@ -40,9 +41,12 @@ This song has put me to sleep during chaotic nights. The slight guitars and the 
 தாயின் கத கதப்பில்..
 உலகம் விடியட்டுமே
 பிள்ளையின் சிறுமுக சிரிப்பில்
-- வைரமுத்து
-</pre>
-<br>
+
+* வைரமுத்து
+  </pre>
+  <br>
+
+![](/img/hope-2.jpg)
 
 **_Ovvoru Pookkalume (Autograph)_**
 
@@ -52,9 +56,10 @@ It'd be a sin if I list songs of hope without this one. I'm sure, as you read th
 மண்மீது சிலையாகும்
 வலி தாங்கும் உள்ளம் தானே
 நிலையான சுகம் காணும்
-- பா விஜய்
-</pre>
-<br>
+
+* பா விஜய்
+  </pre>
+  <br>
 
 **_Merkku Karayil (Aruvi)_**
 
@@ -64,9 +69,12 @@ Not many are aware of this gem. If you know this song, if you've heard this one.
 அடைக்கும் துயரம் அறண்டு மிரளும்
 மஞ்சள் நிலவே மயக்கும் மதியே மயங்கி போகாதே..
 மறுத்த உறவும் தயங்கி சேரும்தவிச்சு போகாதே..
-- அருண் பிரபு புருஷோத்தமன்
-</pre>
-<br>
+
+* அருண் பிரபு புருஷோத்தமன்
+  </pre>
+  <br>
+
+![](/img/hope-1.jpg)
 
 **_Ilangkkaathu Veesuthey (Pithamagan)_**
 
@@ -78,9 +86,10 @@ RAJA. You need anything more to listen to this song? This song is a journey, you
 ஏதும் இணை இல்லை..
 உலகத்தில் எதுவும் தனிச்சு இல்லையே
 குழலில் ராகம் மலரில் வாசம் சேர்ந்தது போல!
-- பழனி பாரதி
-</pre>
-<br>
+
+* பழனி பாரதி
+  </pre>
+  <br>
 
 **_Para Para Para Pattamboochi (Katradhu Tamizh)_**
 
@@ -92,9 +101,12 @@ This melody is the water that caresses your legs when you are standing in the be
 மெல்ல நகர்ந்து போகுதே
 நதி காயலாம்
 நினைவில்உள்ள காட்சி காயுமா?
-- நா முத்துக்குமார்
-</pre>
-<br>
+
+* நா முத்துக்குமார்
+  </pre>
+  <br>
+
+![](/img/hope-3.jpg)
 
 **_Pesugiren (Satham Podathey)_**
 
@@ -103,9 +115,10 @@ I know people who got over their suicidal thoughts with this song in their ears 
 விடியாமல் தான்ஒரு இரவேது
 வடியாமல் தான் வெள்ளம் கிடையாது
 வருந்தாதே வா..
-- நா முத்துக்குமார்
-</pre>
-<br>
+
+* நா முத்துக்குமார்
+  </pre>
+  <br>
 
 **_Thaavi Thaavi (Dhoni)_**
 
@@ -117,9 +130,10 @@ Raja vocal this time. With simple music and lyrics, this song is like my Na Muth
 எந்த காற்று நுழைந்தாலும் புது இசை பாடும்..
 நாம் வாழும் காலத்தில், அட யாரும் தனி இல்லை
 உன் தனிமை தன்னை தனிமையாக்கும் துணைகள்!
-- நா முத்துக்குமார்
-</pre>
-<br>
+
+* நா முத்துக்குமார்
+  </pre>
+  <br>
 
 **_Kadavul Thandha Azhagiya Vazhvu (Maayavi)_**
 
@@ -133,9 +147,10 @@ I don't understand the hate around DSP in Tamil fandom, okay I'm not going there
 அது வரை நாமும் சென்றிடுவோம்
 விடைபெறும் நேரம் வரும் போதும்
 சிரிப்பினில் நன்றி சொல்லிடுவோம்
-- பழனி பாரதி
-</pre>
-<br>
+
+* பழனி பாரதி
+  </pre>
+  <br>
 
 **_Sandhosham Sandhosham (Youth)_**
 
@@ -144,9 +159,10 @@ This movie and album has a separate fan base. This song is Gold!
 உள்ளம் என்பது கவலைகள் நிரப்பும்
 குப்பை தொட்டி இல்லை
 உள்ளம் என்பது பூந்தொட்டி ஆனால் நாளை துன்பம் இல்லை
-- வைரமுத்து
-</pre>
-<br>
+
+* வைரமுத்து
+  </pre>
+  <br>
 
 Special Mentions
 \- Vaa Vaa Nilava from Naan Mahan Alla
