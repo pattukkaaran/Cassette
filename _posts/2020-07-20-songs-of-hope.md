@@ -165,8 +165,8 @@ This movie and album has a separate fan base. This song is Gold!
   <br>
 
 Special Mentions
-\- Vaa Vaa Nilava from Naan Mahan Alla
-\- Sevvaanam Vetkam Kondathu from Poovellam Kettuppaar
+- Vaa Vaa Nilava from Naan Mahan Alla
+- Sevvaanam Vetkam Kondathu from Poovellam Kettuppaar
 
 Whatever you are going through. I hope you heal soon! Not an advice; but, it took a long time for me to realise that this life is a gift. If you are reading this, you are blessed. I really hope this playlist plays a small part in your healing process. See you soon, much love!
 
