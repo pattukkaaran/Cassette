@@ -7,7 +7,7 @@ tags:
 author-name: "'Anonymous'"
 title: Songs of Hope
 date: 2020-07-20 05:30:00 +0000
-image: ''
+image: "/hope.jpg"
 slug: songs-of-hope
 
 ---
