@@ -13,6 +13,9 @@ slug: songs-of-hope
 ---
 **Songs Of Hope, a better tomorrow & more!**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLG0adnlkg_BgoFu72m0eZQC1PGMAS3ogT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 We are all going through something. We are fighting our own battles; with others and with ourselves. Family, Work, Friendship, Relationship, Physical, Mental... Something or the other keeps haunting us. Especially this lockdown has taken a major toll on our mental health. An introvert like me, often goes into my own shell when something bothers me. I'm not vocal about it. Being an avid music lover, I even go without listening to music for days. Some are vocal about their problems, they share it with their friends or family; which is good and they are blessed. Music helped me heal from my darkest days. After the major silence, when I want to face the world, I pick up Music. Music that gives me hope, that wants me to face the world. Here's a list of songs of hope. I'd not rate it, after all they are songs of hope, I don't think they need to be judged that way. So, here you go...
 
 **_Oru Naalil (Pudhupettai)_**
