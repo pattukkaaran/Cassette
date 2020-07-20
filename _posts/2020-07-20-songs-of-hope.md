@@ -112,7 +112,7 @@ This melody is the water that caresses your legs when you are standing in the be
 
 I know people who got over their suicidal thoughts with this song in their ears and heart. Not an easy task for someone like Neha Bhasin, who doesn't know Tamil even a bit to sing, pouring out emotion and positivity in this song.
 <pre>
-விடியாமல் தான்ஒரு இரவேது
+விடியாமல் தான் ஒரு இரவேது
 வடியாமல் தான் வெள்ளம் கிடையாது
 வருந்தாதே வா..
 
