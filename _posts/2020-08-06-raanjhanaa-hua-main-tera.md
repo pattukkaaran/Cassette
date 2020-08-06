@@ -34,7 +34,7 @@ The song starts off with
 
 <pre>
 "raanjhanaa hua main tera,
-kaun tere bun mera"
+kaun tere bin mera"
 (I'm crazy about you, who do I have except you?)
 </pre>
 <br>
