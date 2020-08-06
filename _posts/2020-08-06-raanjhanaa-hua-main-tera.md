@@ -13,7 +13,7 @@ slug: raanjhanaa-hua
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vgm1u2gPxzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-**_"Raanjhanaa Hua Main Tera.."_** oozes an early 2000's magic according to me. Being a person who always relates time periods with the Music and the Movies that I watch; eventhough this track came in 2013, It smells like an early 2000. This track brings back fond memories of my school crush in Punjab & my staging to sit near her in our school van. Even though she bro-zoned me later, the song brings out the school crush josh to me.
+**_"Raanjhanaa Hua Main Tera.."_** oozes an early 2000's magic according to me. Being a person who always relates time periods with the Music and the Movies that I watch; even though this track came in 2013, it smells like an early 2000s track. This track brings back fond memories of my school crush in Punjab & my staging to sit near her in our school van. Even though she bro-zoned me later, the song brings out the school crush josh to me.
 
 In 2013, ARR gave back to back bang-on albums for Dhanush; Maryan and Raanjhanaa. Both being my favorites. This song also reminds me of my friendship with a fellow Rahmaniac Arun & our never ending phone calls about Music & Music! He's my go-to web tech guy. Oh, did I mention? He built this blog for me.
 
