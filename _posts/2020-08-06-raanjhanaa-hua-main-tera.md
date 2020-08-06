@@ -17,7 +17,7 @@ slug: raanjhanaa-hua
 
 In 2013, ARR gave back to back bang-on albums for Dhanush; Maryan and Raanjhanaa. Both being my favorites. This song also reminds me of my friendship with a fellow Rahmaniac Arun & our never ending phone calls about Music & Music! He's my go-to web tech guy. Oh, did I mention? He built this blog for me.
 
-It always feels festive to meet the person you love after a while, right? I'm sure it's the same for everyone. In the ongoing pandemic situation, with many options to virtually meet and connect with the special someone, we still miss their physical presence around us. Nothing matches the face-to-face conversation. If this is the case in 2020.. Imagine this scenario in early 2000's, 90's, 80's!?!
+It always feels festive to meet the person you love after a while, right? I'm sure it's the same for everyone. In the ongoing pandemic situation, with many options to virtually meet and connect with our special someone, we still miss their physical presence around us. Nothing matches face-to-face conversation. If this is the case in 2020.. Imagine this scenario in early 2000's, 90's, 80's!?!
 
 ![](/img/raanjhanaa-hua.jpg)
 
