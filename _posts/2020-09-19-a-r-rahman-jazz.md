@@ -54,7 +54,7 @@ The recent addition to ARR's jazz collection is this one from his recent release
 
 ★ Geet Gaaon - Raunaq
 
-Jonita melts as she sings this one. I'm pretty sure, you will too!
+Jonita melts as she sings this one. I'm pretty sure, you will too! Thanks B Prasanna for suggesting this track.
 
 Special Mention: Hey Goodbye Nanba - Aayudha Ezuthu (3:42-4:12)
 
