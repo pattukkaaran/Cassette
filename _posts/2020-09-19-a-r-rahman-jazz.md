@@ -58,6 +58,6 @@ Jonita melts as she sings this one. I'm pretty sure, you will too! Thanks B Pras
 
 Special Mention: Hey Goodbye Nanba - Aayudha Ezuthu (3:42-4:12)
 
-Hope y'll like this listicle. Jazz is an unexplored, under-rated beauty when it comes to Indian ears. If you like the above listed songs, there is a high chance of you 'loving' the genre. Please do listen. Don't blame me of you get addicted to this incredible genre :)
+Hope y'll like this listicle. Jazz is an unexplored, under-rated beauty when it comes to Indian ears. If you like the above listed songs, there is a high chance of you 'loving' the genre. Please do listen. Don't blame me if you get addicted to this incredible genre :)
 
 \- Pattukkaaran
